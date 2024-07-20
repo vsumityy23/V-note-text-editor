@@ -1,0 +1,71 @@
+                                                     TERMINOLOGY 
+
+
+New: Create a new file and write your text.
+
+Save as: Save the data of your new file to your disk.
+
+Save: Save the changes in file which is already saved in the disk.
+
+Open: Open your favourite file in V-Note.
+
+Exit: Closes the V-Note .
+
+Undo: Erases the last change done to the file,reverting it to an older state.
+
+Redo: Reverse the last undo done to the file.
+
+Cut: Removes the selected text from file and save it to clipboard.
+
+Copy: Make a duplicate of selected text and save it to clipboard.
+
+Paste: Write the content of clipboard to the file.
+
+Replicate line: Paste the content of current line to the next line.
+
+Font: Changes font family,fontstyle,font size and font colour of your text.
+
+Find: Searches any  word in the file and highlight it.
+
+Replace: Replace any word with other one.Auto Save: Save the changes in file automatically to saved file.
+
+Auto Save: Save the changes in file automatically to saved file.
+
+Theme: Background of V-Note .
+
+
+                                                     SHORTCUT KEYS
+
+New: Ctrl+N
+
+Save: Ctrl+S
+
+Open: Ctrl+O
+
+Exit: Esc
+
+Settings: Ctrl+Alt+S
+
+Undo: Ctrl+Z
+
+Redo: Ctrl+Y
+
+Cut: Ctrl+X
+
+Copy: Ctrl+C
+
+Paste: Ctrl+V
+
+Copy path: Ctrl+Shift+V
+
+Find: Ctrl+F
+
+Replace: Ctrl+R
+
+Select all: Ctrl+A
+
+Time and Date: F5
+
+Replicate line: Ctrl+D
+
+
